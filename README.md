@@ -2,10 +2,9 @@
 注意，css和js或许要视项目微调下，比如css在rem布局时候，不居中,个别用到的px换成rem     
 引入2个文件    
 ```
-<script src="...js/eject.js具体地址看项目...">
+<script src="...js/eject.js具体地址看项目..."></script>
 <link href="...css/eject.css具体地址看项目...">
 ```
-<script>
 使用：   
 1、alert弹窗调用示例：   
 ```
